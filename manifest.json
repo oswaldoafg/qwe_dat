@@ -1,0 +1,10 @@
+{
+    "schemaVersion":  1,
+    "latestVersionCode":  6,
+    "latestVersionName":  "1.0.5",
+    "apkUrl":  "https://github.com/oswaldoafg/qwe_dat/releases/latest/download/Diario_Stock_Offline.apk",
+    "apkSha256":  "f0f28ac3ae64b51c1ef246e651f3e5eaef425ec14898c1203c2109222b23f69c",
+    "inventoryVersion":  "2026-11-25T19:49:59.9677673+00:00",
+    "inventoryUrl":  "https://raw.githubusercontent.com/oswaldoafg/qwe_dat/main/inventario.json",
+    "inventorySha256":  "63988a6ec4b22bd39ba66d96cbda3353af0921bd3da75c9d03dc818566988c05"
+}
