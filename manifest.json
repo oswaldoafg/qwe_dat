@@ -1,9 +1,21 @@
 {
     "schemaVersion":  1,
-    "latestVersionCode":  6,
-    "latestVersionName":  "1.0.5",
-    "apkUrl":  "https://github.com/oswaldoafg/qwe_dat/releases/latest/download/Diario_Stock_Offline.apk",
-    "apkSha256":  "f0f28ac3ae64b51c1ef246e651f3e5eaef425ec14898c1203c2109222b23f69c",
+    "latestVersionCode":  7,
+    "latestVersionName":  "1.0.6",
+    "apkUrl":  "https://github.com/oswaldoafg/qwe_dat/releases/latest/download/Diario_Stock_Offline_arm64-v8a.apk",
+    "apkSha256":  "178ac54c3613a444fde01127096c42a365731ef563bc6b74b7e8b1b7e9cd2f0b",
+    "apkUrls":  {
+                    "arm64-v8a":  "https://github.com/oswaldoafg/qwe_dat/releases/download/latest/Diario_Stock_Offline_arm64-v8a.apk",
+                    "armeabi-v7a":  "https://github.com/oswaldoafg/qwe_dat/releases/download/latest/Diario_Stock_Offline_armeabi-v7a.apk",
+                    "x86":  "https://github.com/oswaldoafg/qwe_dat/releases/download/latest/Diario_Stock_Offline_x86.apk",
+                    "x86_64":  "https://github.com/oswaldoafg/qwe_dat/releases/download/latest/Diario_Stock_Offline_x86_64.apk"
+                },
+    "apkSha256ByAbi":  {
+                           "arm64-v8a":  "178ac54c3613a444fde01127096c42a365731ef563bc6b74b7e8b1b7e9cd2f0b",
+                           "armeabi-v7a":  "fac5ebb55b0997ba6efec8a2909824ec3fb2fd1a6e6e171f5abfdb5d3a4f1917",
+                           "x86":  "0dd524d5854789155aeb814f0da2de671256a9db38bc0e74162fda319e644c13",
+                           "x86_64":  "25c04ca1239acf96ecf48f0c28a2a9b62f1d19d76b5d6181d60f43a174d73e18"
+                       },
     "inventoryVersion":  "2026-11-25T19:49:59.9677673+00:00",
     "inventoryUrl":  "https://raw.githubusercontent.com/oswaldoafg/qwe_dat/main/inventario.json",
     "inventorySha256":  "63988a6ec4b22bd39ba66d96cbda3353af0921bd3da75c9d03dc818566988c05"
